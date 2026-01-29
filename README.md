@@ -65,11 +65,6 @@ Each run appends new records with timestamp, face index and emotion scores.
 
 ---
 
-## 📸 Demo
-(Add screenshots here if you want)
-
----
-
 ## 👤 Author
 Kalpana Bhardwaj  
 BTech CSE (AI & ML)  
